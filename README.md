@@ -11,7 +11,8 @@ Curious by nature, I aim to advance our understanding of the cosmos with innovat
 
 - **FuzzyDarkMatterDynamicalFriction**  
   Contributed a new class, `FDMDynamicalFrictionForce`, to the [galpy](https://github.com/jobovy/galpy) package, modeling dynamical friction in the context of fuzzy dark matter.  
-  [Project Repository](https://github.com/Adrian998obs/FuzzyDarkMatterDynamicalFriction)
+  Class documentation : [See documentation](https://docs.galpy.org/en/latest/reference/potentialfdmdynfric.html)
+  Numerical application of the new class : [Project Repository](https://github.com/Adrian998obs/FuzzyDarkMatterDynamicalFriction) 
 
 ## 🛠️ Skills
 
