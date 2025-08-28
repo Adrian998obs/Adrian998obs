@@ -48,7 +48,8 @@ My interests center around galaxies, dark matter, cosmology, and computational a
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [www.linkedin.com/in/adrian-szp](https://www.linkedin.com/in/adrian-szp)  
+- **LinkedIn:** [www.linkedin.com/in/adrian-szp](https://www.linkedin.com/in/adrian-szp)
+- **Mail** : [adrian.szpilfidel@obspm.fr](mailto:adrian.szpilfidel@obspm.fr) or [szpilfideladrian@gmail.com](mailto:szpilfideladrian@gmail.com)  
 
 ---
 
