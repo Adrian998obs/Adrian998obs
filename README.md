@@ -9,6 +9,10 @@ Curious by nature, I aim to advance our understanding of the cosmos with innovat
 My interests center around galaxies, dark matter, cosmology, and computational astrophysics.
 
 ## 🎓 Education
+- **Master 2 "International Research Track"**, 2025/2026, Observatoire de Paris.  
+  **Master thesis 1** : *Exploring the Cosmic Web in Non-Standard Dark Matter Frameworks*, at IAP (3 months)  
+  **Supervisor** : Clotilde Laigle  
+  **Topic** : Cosmology, cosmic web, simulation, data analysis
 
 - **Master 1 "Sciences de l'Univers et Technologies Spatiales"**, 2024/2025, Observatoire de Paris.  
   **Master Thesis 1** : *Stars trapped at the bar resonance*, at GEPI (3 months)  
@@ -20,11 +24,14 @@ My interests center around galaxies, dark matter, cosmology, and computational a
   **Supervisors** : Pierre Boldrini, Jo Bovy  
   **Topic** : Galactic dynamics, globular clusters, orbit integration, galpy  
   [Szpilfidel et al.+25 (in prep)]() • [Internship report](https://www.iap.fr/useriap/boldrini/images/report/rap5.pdf) • [Oral defense](https://www.iap.fr/useriap/boldrini/images/report/talk5.pdf)
+  
+- **Bachelor Degree in Physics**, 2021/2024, Université de Toulouse.  
+  **Thesis** : *Cosmological constraint using BAO and SNIa*, at IRAP (2 months)  
+  **Supervisor** : Alain Blanchard  
+  **Topic** : Observational cosmology, BAO, data, parameter optimization  
+  [Internship report](SZPILFIDEL_Internship_report_L3.pdf) • [Talk Cosmology at the summit](CosmoAtTheSummit2024.pdf)  
 
-- **Master 2 "International Research Track"**, 2025/2026, Observatoire de Paris.  
-  **Master thesis 1** : *Exploring the Cosmic Web in Non-Standard Dark Matter Frameworks*, at IAP (3 months)  
-  **Supervisor** : Clotilde Laigle  
-  **Topic** : Cosmology, cosmic web, simulation, data analysis  
+
 
 ## 🚀 Scientific Contributions
 
