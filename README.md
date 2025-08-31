@@ -37,7 +37,6 @@ My interests center around galaxies, dark matter, cosmology, and computational a
 Numerical analysis of **globular cluster dynamics** in a **fuzzy dark matter** universe using orbital integration.  
 **Popularization:** [Talk at GA LIRA](https://www.iap.fr/useriap/boldrini/images/talks/SZPILFIDEL_AG_LIRA.pdf)  
 
----
 
 ### ⚛️ **Modeling Dynamical Friction in Fuzzy Dark Matter with galpy**  
 Contributed the class `FDMDynamicalFrictionForce` to the [galpy](https://github.com/jobovy/galpy) package, enabling the modeling of **dynamical friction** in the context of **fuzzy dark matter**.  
