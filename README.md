@@ -1,10 +1,7 @@
 # 👋 Hi, I'm Adrian !
 
 Welcome to my GitHub profile!  
-I'm an **M2 student in astrophysics at Observatoire de Paris**, passionate about exploring the universe through data, code, and research.
-
-## ✨ About Me
-
+I'm an **M2 student in astrophysics at Observatoire de Paris**, passionate about exploring the universe through data, code, and research.  
 Curious by nature, I aim to advance our understanding of the cosmos with innovative tools and collaborative science.  
 My interests center around galaxies, dark matter, cosmology, and computational astrophysics.
 
@@ -35,12 +32,22 @@ My interests center around galaxies, dark matter, cosmology, and computational a
 
 ## 🚀 Scientific Contributions
 
-- **FuzzyDarkMatterDynamicalFriction** [Szpilfidel et al.+25 (in prep)]()    
-  Contributed a new class, `FDMDynamicalFrictionForce`, to the [galpy](https://github.com/jobovy/galpy) package, modeling dynamical friction in the context of fuzzy dark matter.  
-  **Class documentation** : [See documentation](https://docs.galpy.org/en/latest/reference/potentialfdmdynfric.html)  
-  **Numerical applications of the new class** : [Project Repository](https://github.com/Adrian998obs/FuzzyDarkMatterDynamicalFriction)  
-  **Popularization** : [Talk GA LIRA](https://www.iap.fr/useriap/boldrini/images/talks/SZPILFIDEL_AG_LIRA.pdf)  
+### 📝 **Publication**  
+*Defying Galactic Cannibalism of Globular Clusters* — [Szpilfidel et al. (in prep)]()  
+Numerical analysis of **globular cluster dynamics** in a **fuzzy dark matter** universe using orbital integration.  
+**Popularization:** [Talk at GA LIRA](https://www.iap.fr/useriap/boldrini/images/talks/SZPILFIDEL_AG_LIRA.pdf)  
 
+---
+
+### ⚛️ **Modeling Dynamical Friction in Fuzzy Dark Matter with galpy**  
+Contributed the class `FDMDynamicalFrictionForce` to the [galpy](https://github.com/jobovy/galpy) package, enabling the modeling of **dynamical friction** in the context of **fuzzy dark matter**.  
+
+- 📚 **Class Documentation:** [View here](https://docs.galpy.org/en/latest/reference/potentialfdmdynfric.html)  
+- 🧮 **Applications:**  
+  - [Szpilfidel et al. (in prep)]()  
+  - [Project Repository](https://github.com/Adrian998obs/FuzzyDarkMatterDynamicalFriction)  
+
+  
 ## 🛠️ Skills
 
 - **Programming Languages:** Python, C, shell  
