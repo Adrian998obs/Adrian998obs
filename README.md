@@ -54,8 +54,19 @@ Contributed the class `FDMDynamicalFrictionForce` to the [galpy](https://github.
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [www.linkedin.com/in/adrian-szp](https://www.linkedin.com/in/adrian-szp)
-- **Mail** : [adrian.szpilfidel@obspm.fr](mailto:adrian.szpilfidel@obspm.fr) or [szpilfideladrian@gmail.com](mailto:szpilfideladrian@gmail.com)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/adrian-szp" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:szpilfideladrian@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Adrian998obs">
+    <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>  
+
+Institutional mail : [adrian.szpilfidel@obspm.fr](mailto:adrian.szpilfidel@obspm.fr)  
 
 ---
 
