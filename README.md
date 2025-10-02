@@ -20,7 +20,7 @@ My interests center around galaxies, dark matter, cosmology, and computational a
   **Master Thesis 2** : *Dynamical friction in Fuzzy Dark Matter Universe*, at LIRA (6 months)  
   **Supervisors** : Pierre Boldrini, Jo Bovy  
   **Topic** : Galactic dynamics, globular clusters, orbit integration, galpy  
-  [Szpilfidel et al.+25 (in prep)]() • [Internship report](https://www.iap.fr/useriap/boldrini/images/report/rap5.pdf) • [Oral defense](https://www.iap.fr/useriap/boldrini/images/report/talk5.pdf)
+  [Szpilfidel et al.+25](https://arxiv.org/abs/2510.00927) • [Internship report](https://www.iap.fr/useriap/boldrini/images/report/rap5.pdf) • [Oral defense](https://www.iap.fr/useriap/boldrini/images/report/talk5.pdf)
   
 - **Bachelor Degree in Physics**, 2021/2024, Université de Toulouse.  
   **Thesis** : *Cosmological constraint using BAO and SNIa*, at IRAP (2 months)  
