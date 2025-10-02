@@ -43,13 +43,13 @@ Contributed the class `FDMDynamicalFrictionForce` to the [galpy](https://github.
 
 - 📚 **Class Documentation:** [View here](https://docs.galpy.org/en/latest/reference/potentialfdmdynfric.html)  
 - 🧮 **Applications:**  
-  - [Szpilfidel et al. (in prep)]()  
+  - [Szpilfidel et al. +25](https://arxiv.org/abs/2510.00927)  
   - [Project Repository](https://github.com/Adrian998obs/FuzzyDarkMatterDynamicalFriction)  
 
   
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, C, shell  
+- **Programming Languages:** Python, C, C++, shell  
 - **Astrophysics Tools:** galpy, agama, colossus, halotools  
 
 ## 🌐 Connect with Me
