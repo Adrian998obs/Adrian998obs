@@ -33,7 +33,7 @@ My interests center around galaxies, dark matter, cosmology, and computational a
 ## 🚀 Scientific Contributions
 
 ### 📝 **Publication**  
-*Defying Galactic Cannibalism of Globular Clusters* — [Szpilfidel et al. (in prep)]()  
+*Defying Galactic Cannibalism of Globular Clusters* — [Szpilfidel et al. +25](https://arxiv.org/abs/2510.00927)  
 Numerical analysis of **globular cluster dynamics** in a **fuzzy dark matter** universe using orbital integration.  
 **Popularization:** [Talk at GA LIRA](https://www.iap.fr/useriap/boldrini/images/talks/SZPILFIDEL_AG_LIRA.pdf)  
 
