@@ -9,7 +9,8 @@ My interests center around galaxies, dark matter, cosmology, and computational a
 ### **Master 2 "International Research Track"**, 2025/2026, Observatoire de Paris.  
   - **Master thesis 1** : *Exploring the Cosmic Web in Non-Standard Dark Matter Frameworks*, at IAP (3 months)  
     **Supervisor** : Clotilde Laigle, Pierre Boldrini    
-    **Topic** : Cosmology, cosmic web, simulation, data analysis
+    **Topic** : Cosmology, cosmic web, simulation, data analysis  
+    [Internship report](https://github.com/Adrian998obs/Adrian998obs/blob/master/LIU2_report_SZPILFIDEL.pdf) • [Oral defense](https://github.com/Adrian998obs/Adrian998obs/blob/master/LIU2_oral_SZPILFIDEL.pdf) 
 
 ### **Master 1 "Sciences de l'Univers et Technologies Spatiales"**, 2024/2025, Observatoire de Paris.  
   - **Master Thesis 2** : *Dynamical friction in Fuzzy Dark Matter Universe*, at LIRA (6 months)  
@@ -32,7 +33,7 @@ My interests center around galaxies, dark matter, cosmology, and computational a
 
 ## 🚀 Scientific Contributions
 
-### 📝 **Publication**  
+### 📝 **Publications**  
 *Fuzzy Dark Matter Dynamical Friction: Defying Galactic Cannibalism of Globular Clusters* — [Szpilfidel et al. +25](https://arxiv.org/abs/2510.00927) (submitted)   
 Numerical analysis of **globular cluster dynamics** in a **fuzzy dark matter** universe using orbital integration.  
 **Popularization:** [Talk at GA LIRA](https://www.iap.fr/useriap/boldrini/images/talks/SZPILFIDEL_AG_LIRA.pdf)  
