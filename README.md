@@ -43,8 +43,11 @@ My interests center around galaxies, dark matter, cosmology, and computational a
 ### 📝 **Publications**  
 *Fuzzy Dark Matter Dynamical Friction: Defying Galactic Cannibalism of Globular Clusters* — [Szpilfidel et al. +25](https://arxiv.org/abs/2510.00927) (submitted)   
 Numerical analysis of **globular cluster dynamics** in a **fuzzy dark matter** universe using orbital integration.  
-**Popularization:** [Talk at GA LIRA](https://www.iap.fr/useriap/boldrini/images/talks/SZPILFIDEL_AG_LIRA.pdf)  
 
+### 🗣️ **Talks**
+  - **ICAP**, at Institut d'Astrophysique de Paris (IAP), February 2026: [Fuzzy Dark Matter Dynamical Friction](https://github.com/Adrian998obs/Adrian998obs/blob/master/ICAP2026_FDM.pdf)
+  - **General Assembly** of the Laboratoire d'Instrumentation et de Recherche Astrophysique (LIRA, Observatoire de Paris), July 2025: [Dynamical friction in FDM](https://www.iap.fr/useriap/boldrini/images/talks/SZPILFIDEL_AG_LIRA.pdf) 
+  - **Cosmology at the summit**, at Pic du Midi, Observatoire Midi-Pyrénées (OMP), July 2024: [Cosmological constraints from BAO](https://github.com/Adrian998obs/Adrian998obs/blob/master/CosmoAtTheSummit2024.pdf) 
 
 ### ⚛️ **Modeling Dynamical Friction in Fuzzy Dark Matter with galpy**  
 Contributed the class `FDMDynamicalFrictionForce` to the [galpy](https://github.com/jobovy/galpy) package, enabling the modeling of **dynamical friction** in the context of **fuzzy dark matter**.  
@@ -57,7 +60,7 @@ Contributed the class `FDMDynamicalFrictionForce` to the [galpy](https://github.
   
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, C, C++, bash
+- **Programming Languages:** Python, C, C++, bash, Fortran
 - **Astrophysics Tools:** galpy, agama, colossus, halotools  
 
 ## 🌐 Connect with Me
